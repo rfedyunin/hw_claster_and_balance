@@ -29,11 +29,10 @@
 3. `Настройте балансировку Round-robin на 4 уровне.`
 4. `На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.`
 
-![Screenshot_11.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_11.jpg)
+![Screenshot_11.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_11.jpg)
+![Screenshot_20.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_20.jpg)
 
-![Screenshot_14.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_14.jpg)
-
-![Screenshot_13.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_13.jpg)
+[harproxy_1.cfg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/configs/harproxy_1.cfg)
 
 
 ---
@@ -46,9 +45,11 @@
 4. `На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.`
 
 
-![Screenshot_15.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_15.jpg)
-![Screenshot_16.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_16.jpg)
-![Screenshot_17.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_17.jpg)
-![Screenshot_18.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/Screenshot_18.jpg)
+![Screenshot_15.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_15.jpg)
+![Screenshot_16.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_16.jpg)
+![Screenshot_19.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_19.jpg)
+
+
+[harproxy_2.cfg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/configs/harproxy_2.cfg)
 
 ---
