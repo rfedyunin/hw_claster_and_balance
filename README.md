@@ -32,7 +32,7 @@
 ![Screenshot_11.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_11.jpg)
 ![Screenshot_20.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_20.jpg)
 
-[harproxy_1.cfg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/configs/harproxy_1.cfg)
+[harproxy_1.cfg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/configs/haproxy_1.cfg)
 
 
 ---
@@ -50,6 +50,6 @@
 ![Screenshot_19.jpg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/screenshots/Screenshot_19.jpg)
 
 
-[harproxy_2.cfg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/configs/harproxy_2.cfg)
+[harproxy_2.cfg](https://github.com/rfedyunin/hw_claster_and_balance/blob/main/configs/haproxy_2.cfg)
 
 ---
